@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931505392594",
+    "firebase_url": "https://nazaretmuse.firebaseio.com",
+    "project_id": "nazaretmuse",
+    "storage_bucket": "nazaretmuse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931505392594:android:4146a184348013e1dd560b",
+        "android_client_info": {
+          "package_name": "com.example.nazaretmuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931505392594-7m3j9vgu72igffjphpor907alf7puo68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nazaretmuse",
+            "certificate_hash": "d08a3eb06696ded29e0207936612b925b40a1f9b"
+          }
+        },
+        {
+          "client_id": "931505392594-pqpv8j9eghjt20na55bn6nghjsicl57g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1QZpsbif1lDZ1RTl4iT3xZUJelRAem7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931505392594-pqpv8j9eghjt20na55bn6nghjsicl57g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
